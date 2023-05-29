@@ -1,4 +1,4 @@
-# Experiment-8---JAVA
+# Experiment-9---JAVA
 ## AIM
 To create java program to add, retrieve and remove the element from the ArrayList.
 ## ALGORITHM
